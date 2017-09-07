@@ -2,12 +2,12 @@ This is a to do app written in React and using Redux.
 
 It consist of:
   An App component to hold all the other components.<br>
-  A NavBar component to hold the title.
-  An Input component with an input field and submit button.
+  A NavBar component to hold the title.<br>
+  An Input component with an input field and submit button.<br>
   A NeedToDo component for rendering incomplete task with a button
-    to mark a task as completed.
+    to mark a task as completed.<br>
   A Done component for rendering completed task with a button to
-    mark a task as incomplete.
+    mark a task as incomplete.<br>
 
 When the buttons on the NeedToDo & Done components are clicked, it
  triggers an update function on the App component to set the state so
