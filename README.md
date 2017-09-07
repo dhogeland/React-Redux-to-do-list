@@ -1,7 +1,7 @@
 This is a to do app written in React and using Redux.
 
 It consist of:
-  An App component to hold all the other components.
+  An App component to hold all the other components.<br>
   A NavBar component to hold the title.
   An Input component with an input field and submit button.
   A NeedToDo component for rendering incomplete task with a button
