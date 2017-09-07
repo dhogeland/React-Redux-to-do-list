@@ -1,6 +1,6 @@
 This is a to do app written in React and using Redux.
 
-It consist of:
+It consist of:<br>
   An App component to hold all the other components.<br>
   A NavBar component to hold the title.<br>
   An Input component with an input field and submit button.<br>
